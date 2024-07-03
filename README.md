@@ -3,9 +3,14 @@
 🔭 I’m currently working on the following project
 - Chess Engine in C
 - Unreal Engine Game Development. 
-  
+
+🌱 I’m currently learning and focusing on leetcoding.
+
 ## 🛠 Skills
 C, C++, C#, SQL, Python, VHDL
+
+
+
 
 
 <!--
