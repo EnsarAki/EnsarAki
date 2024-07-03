@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🔭 I’m currently working on the following project
+- Chess Engine in C
+- Unreal Engine Game Development. 
+  
+## 🛠 Skills
+C, C++, C#, SQL, Python, VHDL
+
+
 <!--
 **EnsarAki/EnsarAki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
